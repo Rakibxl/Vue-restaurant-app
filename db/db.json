@@ -1,6 +1,40 @@
 {
-    "user":[
-        {"name":"anil", "email":"anil@test.com", "password": "abc@123", "id":1},
-        {"name":"peter", "email":"peter@test.com", "password": "peter@123", "id":2}
-    ]
+  "user": [
+    {
+      "name": "anil",
+      "email": "anil@test.com",
+      "password": "abc@123",
+      "id": 1
+    },
+    {
+      "name": "peter",
+      "email": "peter@test.com",
+      "password": "peter@123",
+      "id": 2
+    },
+    {
+      "email": "anil@test.com\"",
+      "password": "abc@123",
+      "name": "anil",
+      "id": 3
+    },
+    {
+      "email": "anil@test.com",
+      "password": "abc@123",
+      "name": "anil",
+      "id": 4
+    },
+    {
+      "email": "rakib@test.com",
+      "password": "rakib123456",
+      "name": "rakib",
+      "id": 5
+    },
+    {
+      "email": "rakib@test.com",
+      "password": "rakib123456",
+      "name": "rakib",
+      "id": 6
+    }
+  ]
 }
